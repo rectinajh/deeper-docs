@@ -1,0 +1,21 @@
+site:
+  title: DeeperNetwork Docs
+  url: https://deeper-network-inc.gitbook.io/deeper-connect-knowledge-base/
+  start_page: deeperchain::index.adoc
+  keys:
+    google_analytics: 'UA-85043059-1'
+content:
+  sources:
+    - url: .
+      branches: HEAD
+      start_path: components/home
+
+    - url: .
+      branches: HEAD
+      start_path: components/learn
+ui:
+  bundle:
+    url: ./ui/bundle.zip
+asciidoc:
+  attributes:
+    idprefix: ''

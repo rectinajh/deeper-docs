@@ -1,0 +1,66 @@
+= DeeperChain Developer Hub
+
+DeeperChain is built for the Decentralized Gateway and Infrastructure for Web3.0,A more secure, private and fairer internet for everyone.
+
+[.card-section]
+== Learn DeeperChain
+
+Deeper Network combines blockchain, network security, and sharing economy to create a global peer to peer network that empowers the real users of the internet and paves the way for the next generation of the web.
+
+[.card.card-primary.card-contracts]
+--
+xref:contracts::index.adoc[[.card-title]#Documentation# [.card-body]#pass:q[Discover the principles and design decisions that DeeperChain is built on. Read about its key features and capabilties as well as the specific skills needed to be an effective DeeperChain blockchain developer.]#]
+--
+
+[.card.card-primary.card-upgrades-js]
+--
+xref:upgrades.adoc[[.card-title]#How-to guides# [.card-body]#pass:q[DeeperChain how-to guides are in-depth guides for developers with some prior knowledge of DeeperChain and a specific goal they want to achieve. Learn more about contributing to these guides here.]#]
+--
+
+[.card.card-primary.card-defender]
+--
+xref:defender::index.adoc[[.card-title]#Tutorials# [.card-body]#pass:q[Create your first Deeperchain, perform a forkless upgrade, and more. This selection of tutorials will lead you through the process in sessions of up to two hours.]#]
+--
+
+[.card.card-primary.card-upgrades-js]
+--
+xref:upgrades.adoc[[.card-title]#DEEPERCHAIN FAQ# [.card-body]#pass:q[Network, share and learn from others who speak your (tech) language! Discover the various open communication channels where you can engage, participate and keep up with the latest developments.]#]
+--
+
+
+=== Ecosystem
+
+Access resources, maximize opportunities, and connect with a thriving network of Substrate enthusiasts and builders.
+
+[.card-section]
+== Learn
+
+Comprehensive guides for every step of your development journey.
+
+include::learn::partial$cards.adoc[]
+
+Check out https://forum.openzeppelin.com/c/general/guides-and-tutorials/23[the DeeperChain forum] for additional community-contributed guides!
+
+
+== More from DeeperChain
+
+=== Contact
+
+Have any questions? Get in touch! 
+Join the conversation on https://join.slack.com/share/enQtMjY3OTA4MzQxNDE0OC1jNzZiMmQ1ZjNhMmQzNTFjZmU0YTAxYmE4NjU1Nzc4M2RjNWJlMWIwOTY0NjZjNjI3YmVjZWQ4Y2Y0M2Y4ZTNl/[slack].
+
+== Seminars & Events
+
+Get insights from others building on DeeperChain, get your questions answered, and build your network.
+
+Join the DeeperChain community in https://forum.openzeppelin.com/[our forum] to https://forum.openzeppelin.com/c/support/17[ask for help], as well as share your feedback or showcase what you have built with DeeperChain!
+
+== Share the Love!
+
+If you are using DeeperChain, tools, or libraries in your project, share the love with the rest of the community by adding a badge to your `README`! Let your audience know that your system is built with the most secure components available.
+
+
+image::https://img.shields.io/badge/built%20with-Deeperchain-3677FF[built-with deeperchain]
+
+
+
