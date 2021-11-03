@@ -1,6 +1,12 @@
-[Deployment logs](https://app.netlify.com/sites/openzeppelin-docs/deploys)
 
-### Adding a new repo
+### Setup up
+
+1,yarn
+
+2,yarn serve or yarn watch:local
+
+3,open 
+http://127.0.0.1:8080/deeperchain/index.html
 
 Edit the [`playbook.yml`](playbook.yml) file by adding the new repository under
 "sources", with the branch or branches that should be deployed, and the path
