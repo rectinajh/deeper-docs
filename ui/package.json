@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "description": "The default theme for the deeperchain documentation site",
-  // "homepage": "https://docs.openzeppelin.com",
+  "homepage": "https://docs.openzeppelin.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/openzeppelin/docs-site-theme.git"
